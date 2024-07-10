@@ -80,6 +80,17 @@ body{
    margin-left: auto;
    margin-right: auto;
 }
+.web-development-column-2{
+    display: flex;
+    justify-content: space-between;
+    padding: 48px 58px;
+    background-image: linear-gradient(to left, #FFFFFF,#ffffff00);
+    margin-bottom: 32px;
+    border-radius: 16px;
+    width: 820px;
+   margin-left: auto;
+   margin-right: auto;
+}
 .web-development{
     display: flex;
     justify-content: center;
